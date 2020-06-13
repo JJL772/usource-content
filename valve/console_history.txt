@@ -1,0 +1,38 @@
+\map c1a1
+\quit
+\map
+\map c1a1
+\quit
+\fps_max 
+\fps_max 1000000
+\cl_showfps 1
+\gl_vsync 0
+\fps_max 
+\sleeptime 
+\sleeptime 0
+\sleeptime 0.001
+\fps_max 
+\fps_max 1000
+\fps_max 
+\gl_vsync 
+\gl_vsync 0
+\sleeptime 
+\sleeptime 0
+quit
+\map c1a1
+\exit
+map c1a1
+map c2a2
+noclip
+give weapon_357
+give weapon_m4
+give weapon_m4a1
+give weapon_pistol
+give weapon_9mm
+give weapon_shotgun
+give weapon_shotgun
+give weapon_shotgun
+give weapon_shotgun
+give weapon_shotgun
+give item_healthkit
+give item_healthkit

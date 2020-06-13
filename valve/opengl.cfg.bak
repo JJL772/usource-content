@@ -1,0 +1,24 @@
+//=======================================================================
+//			Copyright XashXT Group & Flying With Gauss 2020 (C)
+//		    opengl.cfg - archive of renderer implementation cvars
+//=======================================================================
+
+gl_allow_extensions "1"
+gl_arb_multitexture "1"
+gl_clamp_to_edge "1"
+gl_round_down "2"
+gl_stencilbits "8"
+gl_texture_2d_array "1"
+gl_texture_3d "1"
+gl_texture_anisotropic_filter "1"
+gl_texture_cubemap "1"
+gl_texture_cubemap_seamless "1"
+gl_texture_depth_float "1"
+gl_texture_dxt_compression "1"
+gl_texture_float "1"
+gl_texture_mipmap_biasing "1"
+gl_texture_npot "1"
+gl_texture_rectangle "1"
+gl_vertex_buffer_object "1"
+gl_wgl_msaa_samples "0"
+// end of opengl.cfg
