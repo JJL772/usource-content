@@ -15,7 +15,7 @@ if [[ ! -z $GAME_DEBUGGER ]]; then
 	if [[ "$GAME_DEBUGGER" == "gdbgui" || "$GAME_DEBUGGER" == "gdb" ]]; then
 		"$GAME_DEBUGGER" --args "./xash3d $@"
 	else 
-		"$GAME_DEBUGGER" ./xash3d $@
+		$GAME_DEBUGGER ./xash3d $@
 	fi
 else 
 	./xash3d $@
